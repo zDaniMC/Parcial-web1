@@ -27,7 +27,7 @@ ficticio) organizado en las siguientes secciones:
 ## Estructura del proyecto
 
 ```
-CV-Web/
+Parcial-web1/
 ├── index.html
 ├── styles.css
 └── README.md
