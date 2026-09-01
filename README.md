@@ -16,7 +16,7 @@ ficticio) organizado en las siguientes secciones:
 - Habilidades
 - Proyectos
 - Cursos y certificaciones
-- Contacto
+- Contacto y peronas
 
 ## Tecnologías utilizadas
 
